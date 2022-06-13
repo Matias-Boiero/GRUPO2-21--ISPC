@@ -5,7 +5,7 @@ Este repo sirve para recopilar material de estudio del curso Programador ISPC
 ## Conceptos de Scrum:
 
 ### ROLES
-...
+
 ![roles](https://images.squarespace-cdn.com/content/v1/5dde466c8ec727201d3ae12f/1604654009219-M26OZ6CNTSYKUZL8XKI5/ROLES+DE+SCRUM-4.png?format=700w)
 
 Un equipo scrum está formado por varias personas y cada una tiene diferentes responsabilidades:
