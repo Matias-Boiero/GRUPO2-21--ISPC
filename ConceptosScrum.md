@@ -5,7 +5,27 @@ Este repo sirve para recopilar material de estudio del curso Programador ISPC
 ## Conceptos de Scrum:
 
 ### ROLES
-...
+
+![roles](https://images.squarespace-cdn.com/content/v1/5dde466c8ec727201d3ae12f/1604654009219-M26OZ6CNTSYKUZL8XKI5/ROLES+DE+SCRUM-4.png?format=700w)
+
+Un equipo scrum está formado por varias personas y cada una tiene diferentes responsabilidades:
+
+1. **Product Owner**:
+Encargado de optimizar y maximizar el valor del producto, tiene la responsabilidad de decidir que trabajo necesita hacerse, por lo tanto:
+    - Gestiona prioridades y presupuesto, se encarga de explicar cual es la valor del producto a los stakeholders.
+    - Es el representante del negocio: transmite las demandas y el feedback.
+    - Tiene capacidad de tomar decisiones.
+    - Con cada sprint el PO debe hacer una inversión en desarrollo la cual tiene que producir valor.
+
+2. **Scrum Master**:
+Tiene las siguientes tareas:
+    - Gestiona el proceso Scrum y se asegura de llevarlo correctamente.
+    - Elimina progresiva y constantemente los impedimentos que van surgiendo y que afectan a la entrega del producto.
+    - Se encarga del mentoring, formación, facilitar reuniones y eventos si es necesario.
+
+3. **Equipo de desarrollo**:
+Grupo de profesionales con conocimientos técnicos que se encargan de desarrollar el producto mediante sprints, en los cuales el equipo construye y entrega un incremento del producto.  
+
 
 ### CEREMONIAS
 ...
