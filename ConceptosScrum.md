@@ -55,7 +55,7 @@ Un Incremento es el **resultado del Sprint**; es la suma de todas las tareas, ca
 - **Sprint Planning Meeting** 
 
 Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
-![SprintPlanning] (https://beagilemyfriend.com/sprint-planning/)
+![SprintPlanning](https://beagilemyfriend.com/sprint-planning/)
 
 - **Daily Scrum Meeting**
 
@@ -64,7 +64,7 @@ Se produce diariamente, y tiene un máximo de 20 min. de duración. Tiene por ob
 ● No son reuniones de reporte de estado al Scrum Master
 ● Son compromisos frente a los demás miembros del equipo
 
-![DailyScrumMeeting] (https://miro.medium.com/max/1400/1*PiyDpxEAWtaF2To1GW7QaQ.png)
+![DailyScrumMeeting](https://miro.medium.com/max/1400/1*PiyDpxEAWtaF2To1GW7QaQ.png)
 
 - **Sprint Review Meeting**
 
