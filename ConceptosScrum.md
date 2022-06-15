@@ -83,3 +83,4 @@ Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha
 ● Participa todo el equipo.
 
 ![SprintReview/Restropective](https://programacionymas.com/images/posts/2016/review-retrospective-scrum.jpg)
+
